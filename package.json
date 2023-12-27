@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "@splinetool/runtime": "^1.0.16"
+    },
+    "scripts": {
+        "start": "wds --node-resolve --open --watch"
+    }
+}

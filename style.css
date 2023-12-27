@@ -240,7 +240,7 @@ a {
 }
 .contact {
     background: transparent;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
     z-index: 6;
 }
 .contact-wrapper :is(.contact, .contact-empty) {
@@ -580,7 +580,7 @@ span.navigation-arrow:nth-of-type(2) {
 .about-container {
     display: flex;
     background: transparent;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
     z-index: 5;
 }
 
